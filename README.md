@@ -1,6 +1,6 @@
-# clothesstore
+# Fake Store
 
-A new Flutter project.
+Trainning App.
 
 ## Getting Started
 
