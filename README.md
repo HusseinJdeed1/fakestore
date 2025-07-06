@@ -18,20 +18,20 @@ A few resources to get you started if this is your first Flutter project:
 
 ### ☀️ Light View
 <p align="center">
-  <img src="https://github.com/HusseinJdeed1/fakestore/blob/master/assets/images/1.png?raw=true" width="160"/>
-  <img src="https://github.com/HusseinJdeed1/fakestore/blob/master/assets/images/6.png?raw=true" width="160"/>
-  <img src="https://github.com/HusseinJdeed1/fakestore/blob/master/assets/images/2.png?raw=true" width="160"/>
-  <img src="https://github.com/HusseinJdeed1/fakestore/blob/master/assets/images/3.png?raw=true" width="160"/>
-  <img src="https://github.com/HusseinJdeed1/fakestore/blob/master/assets/images/4.png?raw=true" width="160"/>
-  <img src="https://github.com/HusseinJdeed1/fakestore/blob/master/assets/images/5.png?raw=true" width="160"/>
+  <img src="https://github.com/HusseinJdeed1/fakestore/blob/master/assets/images/1.png?raw=true" width="130"/>
+  <img src="https://github.com/HusseinJdeed1/fakestore/blob/master/assets/images/6.png?raw=true" width="130"/>
+  <img src="https://github.com/HusseinJdeed1/fakestore/blob/master/assets/images/2.png?raw=true" width="130"/>
+  <img src="https://github.com/HusseinJdeed1/fakestore/blob/master/assets/images/3.png?raw=true" width="130"/>
+  <img src="https://github.com/HusseinJdeed1/fakestore/blob/master/assets/images/4.png?raw=true" width="130"/>
+  <img src="https://github.com/HusseinJdeed1/fakestore/blob/master/assets/images/5.png?raw=true" width="130"/>
 </p>
 
 ### 🌙 Dark View
 <p align="center">
-  <img src="https://github.com/HusseinJdeed1/fakestore/blob/master/assets/images/1a.png?raw=true" width="160"/>
-  <img src="https://github.com/HusseinJdeed1/fakestore/blob/master/assets/images/6a.png?raw=true" width="160"/>
-  <img src="https://github.com/HusseinJdeed1/fakestore/blob/master/assets/images/2a.png?raw=true" width="160"/>
-  <img src="https://github.com/HusseinJdeed1/fakestore/blob/master/assets/images/3a.png?raw=true" width="160"/>
-  <img src="https://github.com/HusseinJdeed1/fakestore/blob/master/assets/images/4a.png?raw=true" width="160"/>
-  <img src="https://github.com/HusseinJdeed1/fakestore/blob/master/assets/images/5a.png?raw=true" width="160"/>
+  <img src="https://github.com/HusseinJdeed1/fakestore/blob/master/assets/images/1a.png?raw=true" width="130"/>
+  <img src="https://github.com/HusseinJdeed1/fakestore/blob/master/assets/images/6a.png?raw=true" width="130"/>
+  <img src="https://github.com/HusseinJdeed1/fakestore/blob/master/assets/images/2a.png?raw=true" width="130"/>
+  <img src="https://github.com/HusseinJdeed1/fakestore/blob/master/assets/images/3a.png?raw=true" width="130"/>
+  <img src="https://github.com/HusseinJdeed1/fakestore/blob/master/assets/images/4a.png?raw=true" width="130"/>
+  <img src="https://github.com/HusseinJdeed1/fakestore/blob/master/assets/images/5a.png?raw=true" width="130"/>
 </p>
