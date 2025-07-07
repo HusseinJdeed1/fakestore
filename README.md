@@ -2,7 +2,7 @@
 
 🚀 I’m excited to share my latest Flutter training project — a fully functional e-commerce mobile application built with Flutter & Dart, applying clean architecture principles and real-world functionality.
 
-📱 Key Features
+📱 Key Features:
 
 🛍️ Browse products and categories
 
@@ -20,16 +20,6 @@
 
 🔗 Demo & Code
 📲 [APK](https://drive.google.com/file/d/1no5UTpOCzob0hP5UO6tr_tyvobH_N7NT/view)
-
-📱 Key Features:
-
-🛍️ Browse products & categories
-📦 Product detail views
-🛒 Add to cart
-🔐 User authentication
-🎨 Light & Dark mode support
-✨ Modern, responsive UI
-⚙️ Built with Bloc for efficient and reactive state management
 
 
 ## 🛍️ FakeStore App Screenshots
