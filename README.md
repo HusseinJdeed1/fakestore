@@ -1,8 +1,8 @@
-## 🛍️ Flutter E-Commerce App
+# 🛍️ Flutter E-Commerce App
 
 🚀 I’m excited to share my latest Flutter training project — a fully functional e-commerce mobile application built with Flutter & Dart, applying clean architecture principles and real-world functionality.
 
-📱 Key Features:
+## 📱 Key Features:
 
 🛍️ Browse products and categories
 
@@ -18,11 +18,11 @@
 
 ⚙️ Built with Bloc for efficient and reactive state management
 
-🔗 Demo & Code
+## 🔗 Demo
 📲 [APK](https://drive.google.com/file/d/1no5UTpOCzob0hP5UO6tr_tyvobH_N7NT/view)
 
 
-## 🛍️ FakeStore App Screenshots
+## 🛍️ Screenshots
 
 ### ☀️ Light View
 <p align="center">
