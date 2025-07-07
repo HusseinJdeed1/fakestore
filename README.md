@@ -1,18 +1,34 @@
-# 🛒 Fake Store
+🛍️ Flutter E-Commerce App
+🚀 I’m excited to share my latest Flutter training project — a fully functional e-commerce mobile application built with Flutter & Dart, applying clean architecture principles and real-world functionality.
 
-Training App using Flutter & Dart.
+📱 Key Features
+🛍️ Browse products and categories
 
-## 🧰 Getting Started
+📦 Product detail views
 
-This project is a starting point for a Flutter application.
+🛒 Add to cart functionality
 
-A few resources to get you started if this is your first Flutter project:
+🔐 User authentication
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-- [Flutter Documentation](https://docs.flutter.dev/)
+🎨 Light & Dark mode support
 
----
+✨ Modern, responsive UI
+
+⚙️ Built with Bloc for efficient and reactive state management
+
+🔗 Demo & Code
+📲 [APK](https://drive.google.com/file/d/1no5UTpOCzob0hP5UO6tr_tyvobH_N7NT/view)
+
+📱 Key Features:
+
+🛍️ Browse products & categories
+📦 Product detail views
+🛒 Add to cart
+🔐 User authentication
+🎨 Light & Dark mode support
+✨ Modern, responsive UI
+⚙️ Built with Bloc for efficient and reactive state management
+
 
 ## 🛍️ FakeStore App Screenshots
 
